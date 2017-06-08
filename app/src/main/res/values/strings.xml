@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo Listener</string>
+    <string name="title_activity_outra_atividade">Outra Atividade</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="help">Ajuda</string>
+    <string name="limpar">Limpar Campo</string>
+</resources>
